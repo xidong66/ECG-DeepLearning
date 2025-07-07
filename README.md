@@ -1,2 +1,2 @@
 # ECG-DeepLearning
- Utilize various models for ECG signal recognition, such as CNN, Lstm, attention mechanism, etc
+ I am committed to building a fair comparison platform for electrocardiogram (ECG) models. Anyone can submit their model to 3121625819@qq.com, and I will conduct an impartial comparison. I will use the uniformly processed CinC 2017 dataset, which is a highly challenging dataset. The comparison results will be compiled into a table, and both accuracy and inference time will be evaluated.
